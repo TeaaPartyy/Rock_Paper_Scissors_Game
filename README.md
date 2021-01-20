@@ -26,7 +26,7 @@ Basics of HTML present:
  Basics of HTML:
   - const and let variables
   - functions
-  - event handlers for the images
+  - event listeners for the images
   - applying CSS styles depending on the outcome of the result
   - random selection for computer choice
   - switches
